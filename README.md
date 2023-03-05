@@ -1,1 +1,1 @@
-"# Curso-rel-mpago-de-Python---Exerc-cios" 
+"# Curso-rel-mpago-de-Python---Exercises" 
